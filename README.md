@@ -1,7 +1,7 @@
 # ESPino32 Library 
 ====================================================================
-
-     ESPino32 Library คือ Library ต่างๆที่นำมาใช้งานกับบอร์ด [ESPino32](http://thaieasyelec.com/products/development-boards/arduino/espino32-wifi-development-board-detail.html) บน Platform Arduino  
+![](http://thaieasyelec.com/images/stories/virtuemart/product/espino32-wifi-development-board_006.jpg) 
+     ESPino32 Library คือ Library ต่างๆที่นำมาใช้งานกับบอร์ด [ESPino32](http://thaieasyelec.com/products/development-boards/arduino/espino32-wifi-development-board-detail.html) 
 thank reference code from
 * [esp32-cam-demo](https://github.com/igrr/esp32-cam-demo)
 * [M5Stack](https://github.com/m5stack/M5Stack)
@@ -13,4 +13,4 @@ thank reference code from
 * Copy Folder ESPino32 to --> C:\Users\<username>\Documents\Arduino\libraries
 * Open ArduinoIDE 
 * ไปที่เมนู File --> Examples จะพบว่ามีตัวอย่าง Code ของ ESPino32 ปรากฏขึ้นมาดังรูป
-![Pin Functions](docs/pic_example_file.jpg)
+![](docs/pic_example_file.jpg)
