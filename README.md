@@ -2,8 +2,8 @@
 ====================================================================
 ESPino32 Library คือ Library ต่างๆที่นำมาใช้งานกับบอร์ด ESPino32 บน Platform Arduino  
 thank reference code from:
--- https://github.com/igrr/esp32-cam-demo
--- https://github.com/m5stack/M5Stack
+https://github.com/igrr/esp32-cam-demo
+https://github.com/m5stack/M5Stack
 
 ## วิธีติดตั้ง ESPino32
 ====================================================================   
