@@ -34,9 +34,6 @@ void setup()
 
   server.begin();
   cam.setFrameSize(CAMERA_FS_VGA);
-  cam.setMirror(true);
-  cam.setVflip(false);
-  cam.setWhiteBalance(true);
   esp_err_t err = cam.init();
   if (err != ESP_OK)
   {

@@ -12,9 +12,6 @@ void setup()
   Lcd.printf("hello world");
   delay(500);
   cam.setFrameSize(CAMERA_FS_QVGA);   //320x240
-  cam.setMirror(true);
-  cam.setVflip(false);
-  cam.setWhiteBalance(true);
   esp_err_t err = cam.init();
   if(err != ESP_OK)
   {
