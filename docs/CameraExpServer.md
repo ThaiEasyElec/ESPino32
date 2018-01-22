@@ -5,18 +5,26 @@
 ![](006_wm.jpg)
 * Download และ ติดตั้ง Library สำหรับบอร์ด ESPIno32 [Download and Insatll](https://github.com/ThaiEasyElec/ESPino32)
 * ไปที่ File-->Example-->ESPIno32-->Camera-->Camera_Webserver
+
 ![](ex_cam_webserv.jpg)
+
 * ตั้งค่าชื่อของ ssid และ password ของ AP ที่ต้องการให้ ESPino32 เข้าไปเชื่อมต่อ
 ```
 char ssid[] = "yourNetwork";      // <-- your network SSID (name)
 char pass[] = "secretPassword";   // <-- your network password
 ```
 * โปรแกรมCodeลงไปบนบอร์ด
+
 ![](pic_prog.jpg)
+
 * เปิด SerialMonitor ขึ้นมา
+
 ![](pic_serialmon.jpg)
+
 * ตั้งค่า Baudrate = 115200 
+
 ![](serial_server.jpg)
+
 * ที่ SerialMonitor จะแสดง URL สำหรับแสดงภาพบน Web browser โดย
 
 ```
