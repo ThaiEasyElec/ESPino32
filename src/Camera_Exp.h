@@ -40,7 +40,7 @@
 #define   CONFIG_RESET   27
 */
 
-#define   CONFIG_XCLK_FREQ  20000000
+#define   CONFIG_XCLK_FREQ  10000000
 
 class CAMERA
 {
