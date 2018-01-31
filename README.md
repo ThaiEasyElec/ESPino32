@@ -17,5 +17,5 @@ ESPino32 Library คือ Library ต่างๆที่นำมาใช้
 + ESPIno32 กับ Camera Exp.
     + [WebServer](docs/CameraExpServer.md)
     + [TFT LCD(ILI9341) Live View](docs/LiveView.md)  
-    + LINE Notify (comming soon)
+    + [LINE Notify (Picture,Message,Sticker](http://thaieasyelec.com/article-wiki/embedded-electronics-application/capture-and-send-photo-message-to-line-notify-using-espino32-esp32-and-camera-expansion.html)
 
