@@ -49,9 +49,11 @@
 #if CONFIG_OV2640_SUPPORT
 #include "ov2640.h"
 #endif
+/*
 #if CONFIG_OV7725_SUPPORT
 #include "ov7725.h"
 #endif
+*/
 
 #define CONFIG_OV2640_SUPPORT 1
 #define ENABLE_TEST_PATTERN CONFIG_ENABLE_TEST_PATTERN
